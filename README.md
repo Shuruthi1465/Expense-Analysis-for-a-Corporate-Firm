@@ -6,7 +6,7 @@ Expense Analysis project for a corporate firm, leveraging SQL for data extractio
 
          📁MySQL
 
-         📊Power bi
+         📊Power BI
 
 
 
