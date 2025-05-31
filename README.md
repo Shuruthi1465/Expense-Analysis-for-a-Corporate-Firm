@@ -2,13 +2,11 @@
 Expense Analysis project for a corporate firm, leveraging SQL for data extraction, transformation, and manipulation. The project involved designing and optimizing complex queries to gain insights into expense patterns, categories, and anomalies. Power BI was used to create interactive dashboards and visualizations, providing stakeholders with an intuitive view of expense trends and helping to make data-driven decisions. This project improved the firm's ability to monitor expenses, identify cost-saving opportunities, and enhance financial planning.
 
 
-🔍 Project Overview
+🏗 Technologies Used
 
-🔄 Data Source: Chatgpt 
+         📁MySQL
 
-🗄️ Data Storage: MySQL
-
-📊 Visualization: Power BI
+         📊Power bi
 
 
 
